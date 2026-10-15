@@ -1,0 +1,25 @@
+PITUCOPE RESTAURANTE PERUANO — DEMO WEB INFORMATIVA
+
+1. Abre index.html en tu navegador.
+2. Para cambiar textos, links y datos, edita index.html.
+3. Para cambiar colores, bordes y estilos, edita styles.css.
+4. script.js controla el menú móvil y la galería/lightbox.
+
+CAMBIOS DE ESTA VERSIÓN
+- Se dejaron puntas/esquinas redondeadas en tarjetas, galería, hero, botones y bloques visuales.
+- Se incorporaron imágenes conceptuales nuevas inspiradas en el estilo del local mostrado en las referencias del usuario.
+- Se mantuvo la estética roja/cálida/peruana del restaurante.
+
+IMPORTANTE
+- Esta es una DEMO visual.
+- Las imágenes nuevas son de referencia conceptual, inspiradas en el estilo del local.
+- Si el negocio va a publicar la web oficialmente, idealmente debe reemplazar estas imágenes por fotografías reales autorizadas del restaurante.
+- Dirección, horarios, teléfono, Instagram y carta deben confirmarse antes de publicar.
+
+VERSIÓN PRINCIPAL CON PLATOS
+- La foto grande de la portada muestra lomo saltado.
+- La foto superpuesta muestra ceviche peruano.
+- Se actualizaron los tres nombres de la sección de platos con sus imágenes correspondientes:
+  Lomo Saltado, Ceviche Peruano y Arroz con Lomo.
+- Se conservaron sin cambios los enlaces de la carta digital.
+- Las fotografías siguen siendo representaciones conceptuales generadas para la demo.
